@@ -1,4 +1,4 @@
-# Hadoop MapReduce Image Analytics
+# Hadoop MapReduce for Image Analytics
 
 Python-based Hadoop MapReduce workflow for aggregating image-classification data by terrain type.
 
