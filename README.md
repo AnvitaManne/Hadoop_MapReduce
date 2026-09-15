@@ -89,7 +89,3 @@ Final aggregated counts reported from the Hadoop job:
 ## Tech Stack
 
 Python · Hadoop · HDFS · MapReduce · Hadoop Streaming · Cloudera QuickStart VM
-
-## Note
-
-The Python source files in this repository preserve the code shown in the project report. The original report and full image dataset are intentionally not included.
